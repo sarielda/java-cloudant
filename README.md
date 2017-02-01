@@ -2,8 +2,6 @@
 
 This application demonstrates how to use the Bluemix Cloudant NoSQL Database service. It helps users organize their favorite files. The UI talks to a RESTful JAX-RS CRUD backend API.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-cloudant)
-
 ## Building and running the application using the command-line
 
 1. Open the [Bluemix dashboard](https://bluemix.net), create/select your Cloudant service -> Service Credentials  -> View Credentials
